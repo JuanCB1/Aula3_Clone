@@ -16,3 +16,6 @@ em linguagens C++ e clonagem de repositório.
     ```
     $ git clone https://github.com/JuanCB1/Aula3_Clone.git
     ```
+    ```
+    $ git clone git@github.com:JuanCB1/exercio-lpr.git
+    ```
